@@ -1,5 +1,4 @@
 ## Hi there 👋
-I am Leila Akbari,
 
 Electrical Engineer and AI Enthusiast, specializing in Data Science, Machine Learning, and Image Processing. Here, you can find my Open Source projects, contributions, and resources related to Python, AI, and more.
 
@@ -36,11 +35,29 @@ Here are the tools and technologies I work with:
 </div>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leila4793&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leila4793&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leila4793&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leila4793&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+---
+
 You can also connect with me on:
 - **[LinkedIn](https://www.linkedin.com/in/leila-akbari-652911124/)**
 - **[Gmail](leilaa.akbari@gmail.com)**
 
+
 Let’s create, learn, and grow together!
+
+---
+
+---
+
+
 <!--
 **leila4793/leila4793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
