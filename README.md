@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![Snake Animation](https://github.com/leila4793/leila4793/blob/output/dist/github-contribution-grid-snake.svg)
+
 **Electrical Engineer | AI Enthusiast**  
 Specializing in **Data Science, Machine Learning, and Image Processing**.  
 Here, you'll find my **Open Source projects**, **contributions**, and **resources** related to **Python**, **AI**, and more.
