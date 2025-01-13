@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Snake Animation](https://github.com/leila4793/leila4793/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/leila4793/leila4793/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake Animation](https://github.com/leila4793/leila4793/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 **Electrical Engineer | AI Enthusiast**  
 Specializing in **Data Science, Machine Learning, and Image Processing**.  
