@@ -3,6 +3,8 @@
 Specializing in **Data Science, Machine Learning, and Image Processing**.  
 Here, you'll find my **Open Source projects**, **contributions**, and **resources** related to **Python**, **AI**, and more.
 
+![](https://komarev.com/ghpvc/?username=leila4793&style=for-the-badge&color=blueviolet) 
+
 - 🔭 Currently working on **Machine Learning** and **Deep Learning** algorithms.
 - 🌱 Learning **Dutch** and exploring **Generative AI**.
 - 👯 Looking to collaborate on **Machine Learning** and **Computer Vision** projects.
@@ -30,11 +32,6 @@ Here, you'll find my **Open Source projects**, **contributions**, and **resource
 ![](https://github-readme-stats.vercel.app/api?username=leila4793&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leila4793&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leila4793&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 🔝 **Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=leila4793&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
 
