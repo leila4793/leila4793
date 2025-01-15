@@ -3,6 +3,8 @@
 ![Snake Animation](https://github.com/leila4793/leila4793/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Animation](https://github.com/leila4793/leila4793/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+[![leila4793's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leila4793&theme=dracula)](https://github.com/leila4793/github-readme-activity-graph)
+
 **Electrical Engineer | AI Enthusiast**  
 Specializing in **Data Science, Machine Learning, and Image Processing**.  
 Here, you'll find my **Open Source projects**, **contributions**, and **resources** related to **Python**, **AI**, and more.
